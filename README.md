@@ -44,14 +44,13 @@ using an AI Agent powered by **OpenAI** and **Pinecone Vector Store**.
 
 ## 📦 Getting Started
 
-1. Clone this repo or download the exported `.json` file.
-2. Import the workflow into your n8n instance.
-3. Set up credentials for:
+1. Import the workflow into your n8n instance.
+2. Set up credentials for:
 
    * Gmail
    * OpenAI
    * Pinecone
-4. Test the workflow by sending a new email.
+3. Test the workflow by sending a new email.
 
 ---
 
